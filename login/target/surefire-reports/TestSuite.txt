@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.405 sec <<< FAILURE!
+testSomeMethod(web.UserServletNGTest)  Time elapsed: 0.005 sec  <<< FAILURE!
+java.lang.AssertionError: The test case is a prototype.
+	at org.testng.Assert.fail(Assert.java:94)
+	at web.UserServletNGTest.testSomeMethod(UserServletNGTest.java:38)
+
